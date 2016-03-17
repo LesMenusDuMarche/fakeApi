@@ -1,6 +1,13 @@
 [
 	{
 		"id": 3,
-		"name": "Marché des Lices"
+		"name": "Marché des Lices",
+		"dayOfWeek": 5,
+		"hourStart": "07:00",
+		"hourEnd": "13:00",
+		"position": {
+		  "latitude": 1.0,
+		  "longitude": 43.1
+		}
 	}
 ]
