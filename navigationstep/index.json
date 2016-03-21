@@ -1,28 +1,49 @@
 [
-	{
-		"long": 1,
-		"lat": 1,
-		"ingredient": {
-		  "id": 1,
-		  "label": "Filet de Porc",
-		  "amount": "Environ 1kg"
-		}
+  {
+	"long": 1,
+	"lat": 1,
+    "seller": {
+      "id": 3,
+      "name": "Gégé le roi du porc"
+    },
+	"ingredients": [
+	  {
+		"id": 1,
+		"label": "Filet de Porc",
+		"amount": "Environ 1kg"
+	  }
+	]
+  },
+  {
+	"long": 1,
+	"lat": 1,
+    "seller": {
+      "id": 7,
+      "name": "On est pas pressés"
+    },
+	"ingredients": [{
+	  "id": 3,
+	  "label": "Ail",
+	  "amount": "4 gousses"
 	},
-	{
-		"long": 1,
-		"lat": 1,
-		"ingredient": {
-		  "id": 3,
-		  "label": "Ail",
-		  "amount": "4 gousses"
-		},
-	 {
-		  "long": 1,
-		  "lat": 1,
-		  "ingredient": {
-		    "id": 2,
-		    "label": "Caramel au beurre salé",
-		    "amount": "2,5 t"
-		},
-	}
+	  {
+		"id": 6,
+		"label": "Gingembre en poudre",
+		"amount": "4 grammes"
+	  }
+	]
+  },
+  {
+	"long": 1,
+	"lat": 1,
+    "seller": {
+      "id": 9,
+      "name": "TyBreizh"
+    },
+	"ingredient": [{
+	  "id": 2,
+	  "label": "Caramel au beurre salé",
+	  "amount": "2,5 t"
+	}]
+  }
 ]
