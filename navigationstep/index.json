@@ -1,0 +1,28 @@
+[
+	{
+		"long": 1,
+		"lat": 1,
+		"ingredient": {
+		  "id": 1,
+		  "label": "Filet de Porc",
+		  "amount": "Environ 1kg"
+		}
+	},
+	{
+		"long": 1,
+		"lat": 1,
+		"ingredient": {
+		  "id": 3,
+		  "label": "Ail",
+		  "amount": "4 gousses"
+		},
+	 {
+		  "long": 1,
+		  "lat": 1,
+		  "ingredient": {
+		    "id": 2,
+		    "label": "Caramel au beurre salé",
+		    "amount": "2,5 t"
+		},
+	}
+]
