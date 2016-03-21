@@ -1,0 +1,19 @@
+[
+	{
+		"id": 1,
+		"title": "Porc au Caramel",
+		"body": "Du porc, du caramel. Voilà.",
+		"ingredients": [
+		  {
+		    "id": 1,
+		    "label": "Porc",
+		    "amount": "300 grammes"
+		  },
+		  {
+		    "id": 2,
+		    "label": "Caramel",
+		    "amount": "3 cuillères à soupe"
+		  }
+		]
+	}
+]
