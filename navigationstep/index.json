@@ -1,7 +1,7 @@
 [
   {
-	"long": 1,
-	"lat": 1,
+	"lat": 48.115018,
+	"long": -1.638824,
     "seller": {
       "id": 3,
       "name": "Gégé le roi du porc"
@@ -15,8 +15,8 @@
 	]
   },
   {
-	"long": 1,
-	"lat": 1,
+	"lat": 48.115018,
+	"long": -1.638625,
     "seller": {
       "id": 7,
       "name": "On n'est pas pressés"
@@ -34,8 +34,8 @@
 	]
   },
   {
-	"long": 1,
-	"lat": 1,
+	"lat": 48.115129,
+	"long": -1.638239,
     "seller": {
       "id": 9,
       "name": "TyBreizh"
